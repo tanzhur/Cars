@@ -1,0 +1,47 @@
+﻿<div data-template="car-template" data-bind="source: carSource">
+</div>
+
+<script type="text/x-kendo-template" id="car-template">
+    <div>
+        <img data-bind= "attr: {src: ImageUrl}"/>
+        <ul id="car-details">
+            <li>
+            Model: <span data-bind="text: Maker"></span>
+            <span data-bind="text: Model"></span>
+            <span data-bind="text: Engine"></span>
+            <span data-bind="text: FuelType"></span>
+            <span data-bind="text: EngineVolume"></span>
+            </li>
+            <li>
+                Price: <span data-bind="text: Price"></span> $
+            </li>    
+            <li>
+                Year: <span data-bind="text: ProductionYear"></span>
+            </li> 
+            <li>
+                Mileage: <span data-bind="text: Mileage"></span>
+            </li>              
+            <li>
+                Power: <span data-bind="text: HP"></span> HP
+            </li>            
+            <li>
+                Gear: <span data-bind="text: Gear"></span>
+            </li>
+            <li>
+                Doors: <span data-bind="text: Doors"></span>
+            </li>     
+            <li>
+                Extras
+                    <ul>
+                    # for (extra in Extras) { 
+                        if(Extras[extra].Name != undefined){#
+                            <li>
+                                <span>#= Extras[extra].Name #</span>                   
+                            </li> #
+                        }
+                    } #
+                </ul>            
+            </li>
+        </ul>
+    </div>
+</script>
