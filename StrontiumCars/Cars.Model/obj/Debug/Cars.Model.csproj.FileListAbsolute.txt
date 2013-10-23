@@ -1,0 +1,5 @@
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Model\bin\Debug\Cars.Model.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Model\bin\Debug\Cars.Model.pdb
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Model\obj\Debug\Cars.Model.csprojResolveAssemblyReference.cache
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Model\obj\Debug\Cars.Model.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Model\obj\Debug\Cars.Model.pdb

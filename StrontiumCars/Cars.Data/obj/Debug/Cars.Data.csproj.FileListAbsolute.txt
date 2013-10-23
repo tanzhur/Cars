@@ -1,0 +1,10 @@
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\Cars.Data.dll.config
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\Cars.Data.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\Cars.Data.pdb
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\Cars.Model.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\EntityFramework.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\Cars.Model.pdb
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\bin\Debug\EntityFramework.xml
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\obj\Debug\Cars.Data.csprojResolveAssemblyReference.cache
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\obj\Debug\Cars.Data.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Data\obj\Debug\Cars.Data.pdb

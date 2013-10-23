@@ -1,0 +1,8 @@
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\bin\Debug\Cars.Repositories.dll.config
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\bin\Debug\Cars.Repositories.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\bin\Debug\Cars.Repositories.pdb
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\bin\Debug\EntityFramework.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\bin\Debug\EntityFramework.xml
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\obj\Debug\Cars.Repositories.csprojResolveAssemblyReference.cache
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\obj\Debug\Cars.Repositories.dll
+E:\Projects\JS Frameworks\HW_ivivanov_Otborna-rabota_2013-09-02_21-12\StrontiumCars\Cars.Repositories\obj\Debug\Cars.Repositories.pdb
